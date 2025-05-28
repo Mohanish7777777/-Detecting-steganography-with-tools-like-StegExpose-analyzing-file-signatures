@@ -1,6 +1,6 @@
 # Detecting-steganography-with-tools-like-StegExpose-analyzing-file-signatures
-### Reg.No : 212222100027
-### Name : MOHAMMED FAIZAL J
+### Reg.No : 212222100028
+### Name : MOHANISH K
 ## AIM:
 To detect hidden data using steganography detection tools like StegExpose and analyze file signatures for authenticity and manipulation.
 
